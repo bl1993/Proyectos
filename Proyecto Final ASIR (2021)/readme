@@ -1,3 +1,15 @@
+-Resumen de proyecto: 
+https://www.canva.com/design/DAEfUGho_rQ/LOVL9_UQ6PDGE-izh74Ndg/edit
 
+-Diseño y creación de un sitio web para un negocio del sector hotelero que opera en Extremadura.
+
+-Instalación de un servidor web en hardware Raspberry pi 3, donde se alojará la página web.
+(Optimizada para Google Chrome):
 https://bit.ly/HotelSierradeGata
-(Optimizada para Google Chrome - PC)
+
+-Tecnologías utilizadas:
+  -Recogida y validación de datos (formulario) con Javascript.
+  -Sesiones PHP
+  -HTML5,CSS3,BOOSTRAP,JQUERY
+  -Automatización de backups del servidor web con Crontab (Raspbian-Linux)
+  -Triggers en BBDD.
